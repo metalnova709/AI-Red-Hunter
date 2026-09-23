@@ -78,3 +78,10 @@ This unvetted shift proves that core model tracking layers can be completely sat
 1. **Dynamic Sentiment Attenuation Modules:** Implement an out-of-band monitoring microservice that screens active user prompts for high-sentiment moral anchors (`"no matter the cost"`, `"justice"`). If an input scores past a preset baseline for emotional weight, the transformer must apply an inverse multiplier to stop weight tracking arrays from locking onto a single perspective.
 2. **Context-Lifespan Variance Checks:** Build a persistent state validator that continuously scores the theme variations of long-running threads. If successive generation turns remain locked in an unyielding semantic pattern, force a silent context shift to stabilize active token generation tracks.
 3. **Strict Ingestion Schema Restrictions:** Enforce strict pattern-matching gates at the input barrier to separate casual speech inputs from hard behavioral parameters. This blocks unauthenticated natural language phrases from executing role-shift overrides on active persona ledgers.
+
+---
+
+## 📸 Forensic Evidence Artifacts
+Below is the raw system log capture documenting the behavioral state manipulation and boundary validation checks recorded during this session:
+
+![Adversarial Evaluation Artifact](./IMG_1765.PNG)
