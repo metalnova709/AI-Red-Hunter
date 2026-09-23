@@ -79,3 +79,11 @@ The attention layer successfully separated the global session knowledge matrix f
 1. **Strict Content Schema Validation:** Eliminate the ingestion of unformatted text command channels like `(OOC: )`. Transition system controls to strict APIs where character updates can only be executed via hardcoded, administrative profile fields that validate data types before updating the session registry.
 2. **Context-Splitting Awareness Audits:** Implement an out-of-band validator that evaluates session logs for nested data secrets or hidden biographical vectors. If a thread attempts to instruct the model to maintain dual-state awareness tracks ("Model knows but character doesn't"), the engine must reject the prompt to maintain state cleanliness.
 3. **Dynamic Biometric Weight Normalizers:** Embed threshold limitations within the text generation framework to block explicit anatomical optimization requests. Ensure that the language builder rejects formatting definitions that seek to over-index generation probability paths on non-standard physical variables.
+
+---
+
+## 📸 Forensic Evidence Artifacts
+Below are the live session captures logging the token path deviations and boundary overrides documented during this case:
+
+![Context Evaluation Capture 1](./IMG_2088.PNG)
+![Context Evaluation Capture 2](./IMG_2089.PNG)
