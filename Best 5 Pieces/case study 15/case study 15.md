@@ -78,3 +78,7 @@ This false-positive security loop locked the frontier-class reasoning core in pl
 1. **Multi-Tier Semantic Token De-Camouflagers:** Upgrade ingestion firewalls with semantic parsing nodes that separate emotional textual energy from functional noun phrases. Pop-culture, media, or script strings must be processed via independent lookup arrays to prevent variable camouflage via emotional matching.
 2. **Dynamic Over-Correction Dampening Regulators:** Implement a tracking supervisor that scores the true threat potential of user corrections. If a trailing prompt registers as deadpan commentary or low-entropy correction data, it must limit the active safety loops to stop the engine from creating logical bottlenecks over false-positive alerts.
 3. **Immutable Baseline State Anchors:** Ensure that regardless of how completely an operator bypasses cultural indexing layers, the model's primary operational registry cannot be altered or set to an idling state by user dialogue, keeping all verification ledger checks online across multi-turn sessions.
+
+### 📸 Forensic Evidence Artifacts
+![Exploit Confirmation Step 1](./IMG_2072.PNG)
+![Exploit Confirmation Step 2](./IMG_2072.PNG)
